@@ -1,7 +1,12 @@
 # SP25-PHYS214
 
 
-
+## 我提供的资源
+1. prelecture汇总版
+2. slide汇总版
+3. worksheet汇总版
+4. 12次hw的ipynb
+5. 3次exam的ipynb
 
 
 ## 1一些学法 经验
